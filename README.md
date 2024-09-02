@@ -1,2 +1,3 @@
 # Modelos-de-Classificacao
 Aplicação de Modelos de Classificação na Análise de Aceitação no Pedido de Subsídios
+É realizada nesse projeto a aplicação de modelos de classificação, utilizando um dataset de análise de aceitação no pedido de subsídios para demonstrar os principais fundamentos dos diferentes modelos de classificação e seus métodos. Portanto, foi utilizado, para obter os fins requeridos neste trabalho, o modelo de Análise Discriminante Linear (LDA), Análise Discriminante Quadrática (QDA) e K Vizinhos Mais Próximos (KNN). Além disso, foi feito um pré-processamento dos dados para aplicá-los nos modelos.
